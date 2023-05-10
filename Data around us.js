@@ -39,4 +39,4 @@ let favoriteBook = {
 ]
 console.log(favoriteBooks[1].title);
 console.log(favoriteBooks[1].characters[0]);
-console.log(favoriteBooks[0].year - favoriteBooks[1].year);
+console.log(favoriteBooks[0].year - favoriteBooks[1].year)
